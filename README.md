@@ -250,26 +250,7 @@ jupyter notebook TOPSIS_NLP_Assignment.ipynb
 
 ---
 
-## 📁 Project Structure
-```
-TOPSIS_NLP_Assignment/
-│
-├── 📄 README.md
-├── 📓 TOPSIS_NLP_Assignment.ipynb
-│
-├── 📊 Results/
-│   ├── summarization_results.csv
-│   ├── generation_results.csv
-│   ├── classification_results.csv
-│   ├── similarity_results.csv
-│   ├── conversational_results.csv
-│   └── final_summary.csv
-│
-└── 📁 images/
-    └── topsis_results.png
-```
 
----
 
 ## 🛠️ Technologies Used
 
