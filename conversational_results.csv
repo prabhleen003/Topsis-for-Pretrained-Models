@@ -1,0 +1,3 @@
+Model,Inference_Time,Avg_Response_Len,Diversity,Quality,TOPSIS_Score,Rank
+DialoGPT-small,17.59,5.2,0.885,0.26,0.8980585185278717,1
+DialoGPT-medium,90.71,5.8,0.862,0.29,0.10194148147212831,2

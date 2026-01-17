@@ -1,0 +1,6 @@
+Model,Inference_Time,Avg_Similarity,Correlation,TOPSIS_Score,Rank
+paraphrase-MiniLM-L6-v2,4.85,0.386,0.887,0.7062986177284137,1
+all-MiniLM-L6-v2,5.06,0.469,0.914,0.6955831461683322,2
+multi-qa-MiniLM-L6-cos-v1,3.16,0.468,0.715,0.6890363551896087,3
+all-distilroberta-v1,5.76,0.487,0.916,0.6004898877329536,4
+all-mpnet-base-v2,9.28,0.451,0.989,0.31096364481039146,5

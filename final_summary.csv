@@ -1,0 +1,6 @@
+Task,Best_Model,TOPSIS_Score
+Text Summarization,t5-small,0.706025016587358
+Text Generation,opt-125m,0.879068913768235
+Text Classification,distilbert-base-uncased-finetuned-sst-2-english,1.0
+Sentence Similarity,paraphrase-MiniLM-L6-v2,0.7062986177284137
+Conversational,DialoGPT-small,0.8980585185278717

@@ -1,0 +1,6 @@
+Model,Inference_Time,Avg_Confidence,Accuracy,TOPSIS_Score,Rank
+distilbert-base-uncased-finetuned-sst-2-english,8.69,1.0,1.0,1.0,1
+bertweet-base-sentiment-analysis,32.4,0.987,1.0,0.7130290066649893,2
+sentiment-roberta-large-english,32.44,0.999,1.0,0.7127661532486571,3
+twitter-roberta-base-sentiment,11.75,0.982,0.5,0.5498379301296903,4
+bert-base-multilingual-uncased-sentiment,22.24,0.844,0.0,0.1443237633830551,5
